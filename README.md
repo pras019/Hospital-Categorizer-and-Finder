@@ -1,6 +1,7 @@
+**日本に住む外国人のための英語で病院探索プロトタイプ**
+
 # Hospital-Finder-Prototype-For-Foriegners-Living-In-Japan
 
-#日本に住む外国人のための英語で病院探索プロトタイプ
 
 Foreigners living in Japan often face difficulties when seeking medical care due to language barriers. Additionally, the abundance of hospitals necessitates the categorization of these facilities according to medical specialty. In this project, we have classified certain hospitals into specific categories: Internal Clinic, Ophthalmologist, Obstetrics and Gynecology, Pediatric, and Cardiology. Furthermore, we have implemented Firebase for database management within the application. We also utilize Google Maps and Google Translate APIs. The Google Maps API is employed to display locations on the map and estimate distances, while the Google Translate API is used to translate text from Japanese to English.
 
